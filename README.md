@@ -3,7 +3,7 @@
 🚀 **Intelligent Automation Architect** | UiPath Certified Advanced RPA Developer
 
 🤖 **What drives me:**  
-Building intelligent automation solutions that merge RPA with AI — turning repetitive work into seamless efficiency.
+Building intelligent automation solutions that merge RPA with AI to turn repetitive work into seamless efficiency.
 
 ✅ **Certifications:**  
 - UiPath Associate Certified  
@@ -13,7 +13,7 @@ Building intelligent automation solutions that merge RPA with AI — turning rep
 - Microsoft Azure AI Engineer
 
 💞️ **Looking to collaborate on:**  
-End-to-end intelligent automation projects — from process discovery to fully attended/unattended bots.
+End-to-end intelligent automation projects, ranging from process discovery to fully attended/unattended bots.
 
 📫 **Let’s connect:**  
 jogukah@gmail.com

@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @jayogukah
-- 👀 I’m interested in intelligent automation
-- 🌱 I’m certified in Uipath RPA tool at the associate and advanced levels
-- 💞️ I’m looking to collaborate on intelligent automation projects
-- 📫 How to reach me jogukah@gmail.com
+# 👋 Hi, I’m @jayogukah
+
+🚀 **Intelligent Automation Architect** | UiPath Certified Advanced RPA Developer
+
+🤖 **What drives me:**  
+Building intelligent automation solutions that merge RPA with AI — turning repetitive work into seamless efficiency.
+
+✅ **Certifications:**  
+- UiPath Associate Certified  
+- UiPath Advanced Certified
+- Microsoft Power Platform Certified
+- Intel Edge AI Scholarship Awardee
+- Microsoft Azure AI Engineer
+
+💞️ **Looking to collaborate on:**  
+End-to-end intelligent automation projects — from process discovery to fully attended/unattended bots.
+
+📫 **Let’s connect:**  
+jogukah@gmail.com
 
 <!---
 jayogukah/jayogukah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
